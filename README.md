@@ -125,3 +125,6 @@ Please read `CONTRIBUTING.md` for details on our code of conduct, and the proces
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+
+## Poster
+![Smart Travel Poster](https://github.com/kuldeep27396/tripcraft-backend/blob/main/smart-travel_64972161.png?raw=true)
