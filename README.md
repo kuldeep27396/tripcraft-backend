@@ -2,6 +2,8 @@
 
 TripCraft is a Spring Boot application for managing travel plans and itineraries. This backend service provides RESTful APIs for creating and managing users, trips, and destinations.
 
+[![Java CI with Maven](https://github.com/kuldeep27396/tripcraft-backend/actions/workflows/maven.yml/badge.svg)](https://github.com/kuldeep27396/tripcraft-backend/actions/workflows/maven.yml)
+
 ## Project Structure
 
 ```
